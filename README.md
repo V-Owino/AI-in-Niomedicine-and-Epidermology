@@ -1,4 +1,4 @@
-# AI-in-Niomedicine-and-Epidermology
+# AI-in-Biomedicine-and-Epidermology
  
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.in this Repo, I will share  practical experience applying machine learning to concrete problems in medicine like:
 ##Diagnose diseases from x-rays and 3D MRI brain images 
